@@ -1,0 +1,12 @@
+{
+    "name": "ahmed_ck/paypal",
+    "authors": [
+        {
+            "name": "Ahmed Cherif KRID",
+            "email": "ahmedcherifkrid@gmail.com"
+        }
+    ],
+    "require": {
+        "paypal/paypal-checkout-sdk": "1.0.0"
+    }
+}
